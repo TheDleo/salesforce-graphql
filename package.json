@@ -1,0 +1,14 @@
+{
+  "name": "salesforce-graphql",
+  "version": "1.0.0",
+  "description": "graphql api for salesforce",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "dmartin@fh.org",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.6.2"
+  }
+}
